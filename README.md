@@ -1,3 +1,9 @@
+> [!WARNING]  
+> This is an old project, made for study purposes only. Because of this, it may contain several inconsistencies in its code base, or broken things like links and images.
+
+---
+
+
 # CCC 
 # This is my version of gcc, compiler for c language, ccc !
 
